@@ -9,15 +9,12 @@
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
-    align-content: center;
-    padding: 30px;
+    padding: 50px;
 }
 
 .logo {
     font-size: 24px;
     color: #E5E7EB;
-    display: flex;
-    align-content: center;
 }
 
 .links {
@@ -35,8 +32,8 @@ li {
 .container {
     background-color: #1f2937;
     display: flex;
-    justify-content: space-between;
-    padding: 30px;
+    justify-content: space-around;
+    padding: 50px;
     gap: 30px;
 }
 
